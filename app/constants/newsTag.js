@@ -1,0 +1,2 @@
+export const ADD_NEWSTAG= 'ADD_NEWSTAG';
+export const UPDATE_NEWSTAG = 'UPDATE_NEWSTAG';

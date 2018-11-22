@@ -1,0 +1,3 @@
+export const ADD_NEWSLIST = 'ADD_NEWSLIST';
+export const UPDATE_NEWALIST = 'UPDATE_NEWALIST';
+ 

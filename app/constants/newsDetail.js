@@ -1,0 +1,1 @@
+export const ADD_NEWSDETAIL = 'ADD_NEWSDETAIL';
